@@ -1,0 +1,14 @@
+F:\Backend\C#\HomeWork\HomeWork1\Task2\bin\Debug\net9.0\Task2.exe
+F:\Backend\C#\HomeWork\HomeWork1\Task2\bin\Debug\net9.0\Task2.deps.json
+F:\Backend\C#\HomeWork\HomeWork1\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+F:\Backend\C#\HomeWork\HomeWork1\Task2\bin\Debug\net9.0\Task2.dll
+F:\Backend\C#\HomeWork\HomeWork1\Task2\bin\Debug\net9.0\Task2.pdb
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.dll
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\refint\Task2.dll
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.pdb
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+F:\Backend\C#\HomeWork\HomeWork1\Task2\obj\Debug\net9.0\ref\Task2.dll
